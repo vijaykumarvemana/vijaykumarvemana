@@ -1,6 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/86473757/145317969-ab4c119b-013f-42ba-861a-24414381089a.jpg" alt="img" height="250" width="100%"  object-fit="cover"![1](https://user-images.githubusercontent.com/86473757/145690564-9002a1b1-61bb-428c-b1b6-4a6506af0704.png)
-/>
+<img src="https://user-images.githubusercontent.com/86473757/145690564-9002a1b1-61bb-428c-b1b6-4a6506af0704.png" alt="img" height="250" width="100%"  object-fit="cover" />
 <h1 align="center">Hi 👋, I'm Vijay Kumar Vemana</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
