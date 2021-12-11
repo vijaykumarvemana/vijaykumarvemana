@@ -6,7 +6,6 @@
 
 
 
-<!--
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +14,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- -->
+
 
 
 
