@@ -3,9 +3,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-
-
-
+<h2> About Me </h2>
 
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning ...
