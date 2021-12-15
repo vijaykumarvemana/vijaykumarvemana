@@ -5,7 +5,7 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on building Web Applications using Reactjs, Nodejs, mongoDB and working up on polishing my skills in competitive programming.
+- 🔭 I’m working on building Web Applications using Reactjs, Nodejs, mongoDB and working up on polishing my skills in competitive programming.
 - 🌱 I’m currently learning PWA.
 - 👯 I’m looking to collaborate on Open Source Projects,Tech Articles.
 - 📫 How to reach : vijaykumarvemana18@gmail.com
