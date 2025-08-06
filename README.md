@@ -47,7 +47,7 @@ Whether I’m designing RAG pipelines for enterprise automation, crafting fast w
 ## 📬 Let’s Connect!
 
 📫 Drop a line: [vijaykumarvemana73@gmail.com](mailto:vijaykumarvemana73@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vijay-kumar-vemana) | 🧠 [Portfolio (coming soon!)](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vvemana1) |  
 💡 *Always open to sharing ideas, learning from others, or building something cool together.*
 
 ---
