@@ -39,7 +39,7 @@ I enjoy **solving complex engineering problems end-to-end**, writing clean, main
 
 ## 📫 Connect with Me
 - Email: [vkumarvemana@gmail.com](mailto:vkumarvemana@gmail.com)  
-- LinkedIn: [linkedin.com/in/vijaykumarvemana](https://www.linkedin.com/in/vijaykumarvemana)  
+- LinkedIn: [linkedin]([https://www.linkedin.com/in/vijaykumarvemana](https://www.linkedin.com/in/vvemana1/))  
 - GitHub: [github.com/vijaykumarvemana](https://github.com/vijaykumarvemana)  
 
 ---
