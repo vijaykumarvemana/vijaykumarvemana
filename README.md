@@ -1,46 +1,46 @@
 # Hi, I'm Vijay Kumar Vemana 👋  
-**Full Stack Software Engineer | Web & Cloud Applications | AWS & Serverless**  
+**Full-Stack Engineer | Generative AI & Cloud-Native Applications | LLM & Serverless Expert**  
 
 ---
 
 ## 🚀 About Me
-I'm a **Full Stack Software Engineer** with 5+ years of experience building **scalable web and cloud-native applications**. I specialize in **frontend and backend development**, **API design**, and **database architecture**, with hands-on experience in **AWS cloud and serverless technologies**.  
+I’m a **Full-Stack Engineer and Generative AI specialist** with 7+ years of experience building **scalable web, cloud, and AI-powered applications**. I combine **frontend, backend, and AI/ML expertise** to deliver **intelligent, real-time, production-ready systems** using LLMs, RAG pipelines, and serverless architectures.  
 
-I enjoy **solving complex engineering problems end-to-end**, writing clean, maintainable code, and delivering software that scales in production environments.  
+I enjoy **solving complex problems end-to-end**, creating **AI-driven experiences**, and building **systems that scale seamlessly across cloud platforms**.  
 
 ---
 
 ## 🛠️ Skills
 
-**Programming Languages:** Python, JavaScript/TypeScript, PHP, Java, SQL  
-**Frontend:** React.js, Vue.js, Next.js, Tailwind CSS, HTML/CSS, Responsive Design  
-**Backend:** PHP (Symfony, Doctrine), Node.js/Express, FastAPI, Django, Microservices  
-**Databases:** MySQL, PostgreSQL, Redshift, MongoDB, DynamoDB  
-**Cloud & DevOps:** AWS (Lambda, S3, API Gateway, ECS, EC2), Serverless, Docker, Kubernetes, CI/CD, Terraform, Jenkins  
-**Tools & Practices:** Agile/Scrum, Git, Linux/Unix, Unit & Integration Testing  
+**Languages:** Python, JavaScript/TypeScript, Java, C++, SQL  
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML/CSS, Responsive Design  
+**Backend & APIs:** FastAPI, Flask, Node.js/Express, Django, REST APIs, Microservices  
+**AI/ML & LLMs:** OpenAI GPT, Llama3, Hugging Face Transformers, LangChain, RAG Systems  
+**Databases & Search:** MySQL, PostgreSQL, MongoDB, DynamoDB, Pinecone, OpenSearch, ChromaDB  
+**Cloud & DevOps:** AWS (Lambda, S3, API Gateway, EC2, Bedrock), Serverless, Docker, Kubernetes, Terraform, CI/CD, MLflow  
+**Other Tools:** Git, Linux/Unix, Unit & Integration Testing, Agile/Scrum  
 
 ---
 
 ## 💼 Work Highlights
-- Developed **scalable SaaS applications** serving millions of users with high reliability and low latency.  
-- **Designed and optimized relational and NoSQL databases**, improving query performance and data integrity.  
-- Built **high-performance APIs and microservices**, deployed on **AWS and serverless architectures**.  
-- Implemented **CI/CD pipelines with Docker, Kubernetes, and GitHub Actions**, accelerating release cycles.  
-- Collaborated with cross-functional teams to **deliver high-quality, maintainable, and secure software**.  
+- Engineered **end-to-end Generative AI systems** integrating LLMs with serverless RAG pipelines.  
+- Built **high-performance APIs and microservices** using FastAPI/Flask/Node.js deployed on AWS.  
+- Designed **event-driven data pipelines** for predictive analytics and AI workflows using Lambda, API Gateway, and Databricks.  
+- Developed **AI-powered search & recommendation engines** with embeddings, vector databases, and LangChain.  
+- Implemented **CI/CD pipelines** using Docker, Kubernetes, and Git, improving reliability and scalability.  
+- Collaborated with **cross-functional teams** to turn complex requirements into intelligent, production-ready solutions.  
 
 ---
 
 ## 🌐 Projects
-- **HR Workflow Automation:** Vue.js frontend + Symfony/Doctrine backend, improving MySQL query efficiency by 25%.  
-- **Clinical Documentation Assistant:** FastAPI/Node.js APIs + React dashboards, reducing manual review time by 5+ hours/week.  
-- **Other Projects:** Check my [GitHub repositories](https://github.com/vijaykumarvemana) for full list of web and cloud projects.  
+- **RAG Knowledge Assistant:** LLM + OpenSearch + FastAPI — reduced document search time by 70%.  
+- **Text-to-SQL AI App:** Llama3 + AWS Bedrock — allows natural language queries for databases.  
+- **ATS Resume Optimizer:** OpenAI API + Python + AWS — improved ATS match rates by 50%.  
+- **Advanced Q&A Chatbots:** DataStax + Vector Embeddings + Hugging Face — reduced manual support intervention.  
 
 ---
 
 ## 📫 Connect with Me
 - Email: [vkumarvemana@gmail.com](mailto:vkumarvemana@gmail.com)  
-- LinkedIn: [linkedin]([https://www.linkedin.com/in/vijaykumarvemana](https://www.linkedin.com/in/vvemana1/))  
+- LinkedIn: [linkedin.com/in/vijaykumarvemana](https://www.linkedin.com/in/vvemana1)  
 - GitHub: [github.com/vijaykumarvemana](https://github.com/vijaykumarvemana)  
-
----
-
